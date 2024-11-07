@@ -1,4 +1,4 @@
-# Presentation Project (Unity)
+# Presentation Project (Unity).
 No need to switch to Power Point anymore.
 
 ## Description
