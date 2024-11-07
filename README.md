@@ -60,6 +60,3 @@ If you check the demo Slide Deck you will see that slide scenes all have the sam
 
 ## Known issues
 1. When fast switching between slides sometimes two slides can be loaded at once.
-
-## Authors
-The original project was made by Valentin Simonov, Andy Touch, Rus Scammel and Adam Buckner.
